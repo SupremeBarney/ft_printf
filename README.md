@@ -30,16 +30,17 @@ In order to compile the program, use this command :
 > FILENAME is the name of the file you want to compile
 
 if you want to use an exemple of test code you can use :  
-`int main(void)
+```int main(void)
 {
 	int a = 42;
     ft_printf("Hello %s!\n", "world");
     ft_printf("Number: %d, Hex: %x\n", a, a);
     return 0;	
-}`
+}```
 
 ## Resources
 
 [va_list](https://man7.org/linux/man-pages/man3/va_list.3type.html)  
 [va_start, va_arg, va_end](https://man7.org/linux/man-pages/man3/va_start.3.html)  
+
 [understanding ft_printf from nikito](https://www.youtube.com/watch?v=Hb2m7htiKWM)
