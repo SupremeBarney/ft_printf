@@ -36,7 +36,8 @@ if you want to use an exemple of test code you can use :
     ft_printf("Hello %s!\n", "world");
     ft_printf("Number: %d, Hex: %x\n", a, a);
     return 0;	
-}```
+}
+```
 
 ## Resources
 
@@ -44,3 +45,4 @@ if you want to use an exemple of test code you can use :
 [va_start, va_arg, va_end](https://man7.org/linux/man-pages/man3/va_start.3.html)  
 
 [understanding ft_printf from nikito](https://www.youtube.com/watch?v=Hb2m7htiKWM)
+
